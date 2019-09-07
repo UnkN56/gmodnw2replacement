@@ -1,5 +1,4 @@
 module("NW3",package.seeall)
-if true then return end
 Storage=Storage or {}
 Queue=Queue or {}
 Types={"Angle","Bool","Entity","Float","String","Vector"}
